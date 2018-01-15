@@ -1,0 +1,7 @@
+/home/miguelmg/Documents/CIDETEC/semestre 2/sistemas operativos/lectura mp3/lectura_mp3/build/CMakeFiles/install.dir
+/home/miguelmg/Documents/CIDETEC/semestre 2/sistemas operativos/lectura mp3/lectura_mp3/build/CMakeFiles/list_install_components.dir
+/home/miguelmg/Documents/CIDETEC/semestre 2/sistemas operativos/lectura mp3/lectura_mp3/build/CMakeFiles/rebuild_cache.dir
+/home/miguelmg/Documents/CIDETEC/semestre 2/sistemas operativos/lectura mp3/lectura_mp3/build/CMakeFiles/lectura_mp3.dir
+/home/miguelmg/Documents/CIDETEC/semestre 2/sistemas operativos/lectura mp3/lectura_mp3/build/CMakeFiles/edit_cache.dir
+/home/miguelmg/Documents/CIDETEC/semestre 2/sistemas operativos/lectura mp3/lectura_mp3/build/CMakeFiles/install/strip.dir
+/home/miguelmg/Documents/CIDETEC/semestre 2/sistemas operativos/lectura mp3/lectura_mp3/build/CMakeFiles/install/local.dir

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/miguelmg/Documents/CIDETEC/semestre 2/sistemas operativos/lectura mp3/lectura_mp3/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+
